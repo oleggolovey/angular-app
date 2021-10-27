@@ -6,7 +6,7 @@ export const environment = {
   production: false,
   BASE_URL: "https://api.themoviedb.org/3",
   IMG_URL: "https://image.tmdb.org/t/p/w500",
-  API_KEY: // Your API v4 key
+  API_KEY: "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJmMjg0ZDc2ZjYxY2EyYTJkMTM2ZTAxZmU1M2I0NjE4MSIsInN1YiI6IjYxNzkzZjRlYzE0ZmVlMDA4Y2MyMTJlMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RiQ2BoHuk1vFgKV7RE6TetfhNyYTbJODdU6gYwl9bKc"
 };
 
 /*
